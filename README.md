@@ -23,9 +23,7 @@ It also integrates a quick **Wayback Machine** check so you can see if the targe
 
 Four03Scope first hits the target path:
 
-```text
 BASE_URL + PATH  => baseline status and size
-````
 
 Every later test is compared against this baseline. Any request that changes the status code or response size is flagged as:
 
