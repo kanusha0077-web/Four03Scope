@@ -1,4 +1,4 @@
-````markdown
+
 # Four03Scope
 
 Four03Scope is a focused **HTTP 403 bypass and behavior mapping toolkit**.
